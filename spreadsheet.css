@@ -1,0 +1,52 @@
+h1 {
+	background-color: rgba(0, 255, 255, 0.815);
+	text-align: center;
+	font-size: 100px;
+}
+
+header {
+	background: rgb(93, 235, 169);
+	text-align: center;
+	padding: 4px;
+}
+nav {
+	font-variant: small-caps;
+	font-size: 70px;
+	font-family: arial, "times new roman", serif;
+	text-align: center;
+	background: rgb(93, 235, 169);
+
+}
+
+h2{
+	color: rgb(250, 150, 18);
+}
+section{
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin-right: 2%;
+}
+
+body {
+	background: rgba(73, 157, 226, 0.473);
+	margin: 4%;
+}
+
+details {
+	font-style: italic;
+}
+
+summary {
+	font-style: normal;
+}
+
+footer{
+	background: rgba(0, 255, 255, 0.815);
+	clear: both;
+}
+
+img{
+	width: 140px;
+}
+
